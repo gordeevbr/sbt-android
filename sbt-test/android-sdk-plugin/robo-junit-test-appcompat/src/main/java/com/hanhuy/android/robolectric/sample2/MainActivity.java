@@ -1,4 +1,4 @@
-package com.hanhuy.android.robolectric.sample;
+package com.hanhuy.android.robolectric.sample2;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;

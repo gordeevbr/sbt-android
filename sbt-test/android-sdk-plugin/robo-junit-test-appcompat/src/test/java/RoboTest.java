@@ -4,7 +4,7 @@ import org.robolectric.*;
 import org.robolectric.annotation.*;
 import org.robolectric.Robolectric;
 
-import com.hanhuy.android.robolectric.sample.MainActivity;
+import com.hanhuy.android.robolectric.sample2.MainActivity;
 
 @RunWith(RobolectricTestRunner.class)
 @Config(manifest="src/main/AndroidManifest.xml")
